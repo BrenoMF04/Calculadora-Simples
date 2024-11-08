@@ -1,6 +1,6 @@
 # Calculadora Simples em Java
 
-Uma calculadora simples feita em Java utilizando `JFrame` para a interface gráfica. Suporta as operações de soma, subtração, multiplicação e divisão.
+Uma calculadora simples feita em Java utilizando `JFrame` para a interface gráfica.
 
 ## Funcionalidades
 
